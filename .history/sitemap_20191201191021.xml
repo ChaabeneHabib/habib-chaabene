@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://localhost/habibChaabene/sitemap.xml">
+
+   <url>
+
+      <loc>http://localhost/habibChaabene/index.html</loc>
+
+      <lastmod>2005-01-01</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+
+    <url>
+
+      <loc>http://localhost/habibChaabene/index.html</loc>
+
+      <lastmod>2005-01-01</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+
+</urlset> 
